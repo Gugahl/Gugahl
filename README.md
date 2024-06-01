@@ -17,4 +17,5 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ---
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gugahl&theme=blue-green)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gugahl&theme=blue-green)
