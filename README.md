@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Gustavo Lima! 😃
+### Olá! Eu sou o Gustavo Lima! 😄
 ---
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavolima.21/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-lima-santos-49b929302/)
