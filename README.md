@@ -16,7 +16,7 @@
     <h2>My social medias</h2>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 25px;"><br/>
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 25px;">
     <a target="_blank" href="https://www.instagram.com/gustavolima.21/">
         <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Logo Instagram">
     </a>
@@ -27,7 +27,7 @@
         <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Logo Youtube">
     </a>
 </div>
-
+<br/>
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 40px;">
     <a href="">
