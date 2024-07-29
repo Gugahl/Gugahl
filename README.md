@@ -16,7 +16,7 @@
     <h2>My social medias</h2>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 25px;">
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 25px;"><br/>
     <a target="_blank" href="https://www.instagram.com/gustavolima.21/">
         <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Logo Instagram">
     </a>
