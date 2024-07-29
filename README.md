@@ -29,7 +29,7 @@
 </div>
 
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 40px;">
     <a href="">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gugahl&theme=dark" alt="GitHub Stats">
     </a>
