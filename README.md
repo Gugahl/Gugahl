@@ -8,6 +8,14 @@
         <li>I am currently studying the PHP language</li>
         <li>I'm in the second period of computer science</li>
     </ul>
+    <p>
+Sempre fui muito curioso desde criança, eu era a criança que desmontava as coisas para ver como funciona, isso me fez ficar fascinado com tecnologia. Aos 7 anos ganhei meu primeiro computador e percebi que aquilo era o que eu nasci para fazer.
+
+Atualmente atuo com diversas tecnologias de desenvolvimento, as principais são: HTML, CSS, Javascript, Node.js, PHP e MySQL, além de tecnologias de versionamento de software Git e Github (link abaixo), também possuo conhecimentos notáveis em Python, minha stack anterior.
+
+Contato:
+Email: ogustavohlima@gmail.com
+    </p>
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 10px;">
