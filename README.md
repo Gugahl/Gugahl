@@ -9,12 +9,12 @@
         <li>I'm in the second period of computer science</li>
     </ul>
     <p>
-Sempre fui muito curioso desde criança, eu era a criança que desmontava as coisas para ver como funciona, isso me fez ficar fascinado com tecnologia. Aos 7 anos ganhei meu primeiro computador e percebi que aquilo era o que eu nasci para fazer.
+I have always been very curious since I was a child. I was the kid who took things apart to see how they worked, which made me fascinated with technology. When I was 7 years old, I got my first computer and realized that this was what I was born to do.
 
-Atualmente atuo com diversas tecnologias de desenvolvimento, as principais são: HTML, CSS, Javascript, Node.js, PHP e MySQL, além de tecnologias de versionamento de software Git e Github (link abaixo), também possuo conhecimentos notáveis em Python, minha stack anterior.
+I currently work with several development technologies, the main ones being: HTML, CSS, Javascript, Node.js, PHP and MySQL, as well as software versioning technologies Git and Github (link below). I also have considerable knowledge in Python, my previous stack.
 
-Contato:
-Email: ogustavohlima@gmail.com
+Contact:
+Mail: ogustavohlima@gmail.com
     </p>
 </div>
 
