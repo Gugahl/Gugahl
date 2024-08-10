@@ -13,7 +13,7 @@ I have always been very curious since I was a child. I was the kid who took thin
 
 I currently work with several development technologies, the main ones being: HTML, CSS, Javascript, Node.js, PHP and MySQL, as well as software versioning technologies Git and Github (link below). I also have considerable knowledge in Python, my previous stack.
 
-Contact:
+Contact:<br>
 Mail: ogustavohlima@gmail.com
     </p>
 </div>
