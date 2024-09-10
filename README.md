@@ -1,12 +1,13 @@
+
 <div style="display: flex; justify-content: center; margin-top: 10px;">
     <h2>Hi! I'm Gustavo Lima! 😄</h2>
 </div>
 
-<div style="display: flex; justify-content: center; margin-top: 10px;">
-    <ul style="list-style-type: none; padding: 0;">
-        <li>I work with back-end web development</li>
-        <li>I am currently studying the PHP language</li>
-        <li>I'm in the second period of computer science</li>
+<div style="display: flex; flex-direction: column; justify-content: center; margin-top: 10px;">
+    <ul style="padding: 0;">
+        <li>I work with back-end web development
+        <li>I am currently studying the PHP language
+        <li>I'm in the second period of computer science
     </ul>
     <p>
 I have always been very curious since I was a child. I was the kid who took things apart to see how they worked, which made me fascinated with technology. When I was 7 years old, I got my first computer and realized that this was what I was born to do.
