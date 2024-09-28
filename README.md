@@ -1,71 +1,25 @@
-<div style="display: flex; justify-content: center; margin-top: 10px;">
-    <h2>Hello! I'm Gustavo Lima! 😄</h2>
-</div>
+# Olá, sou Gustavo Lima! 👋
 
-<div style="display: flex; flex-direction: column; justify-content: center; margin-top: 10px;">
-    <ul style="padding: 0;">
-        <li>🌐 I work with back-end web development</li>
-        <li>📚 Currently, I'm studying PHP</li>
-        <li>🎓 I'm in the second semester of Computer Science</li>
-        <li>🌍 Native Portuguese speaker, English A2</li>
-    </ul>
-    <p>
-        Since childhood, I have always been very curious and loved taking things apart to see how they worked. When I got my first computer at the age of 7, I realized I was meant for the world of technology. Today, I work with various development technologies, including HTML, CSS, JavaScript, Node.js, PHP, MySQL, and Java, as well as using Git and GitHub for version control. I also have a good knowledge of Python, which was my previous stack.
-        <br><br><strong>Contact</strong>: <br>
-        LinkedIn: <a href="https://www.linkedin.com/in/gustavolima21/">gustavolima21</a><br>
-        Mail: ogustavohlima@gmail.com
-    </p>
-</div>
+Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos relacionados ao desenvolvimento web, especialmente focados em PHP e Python. Atualmente, estou no segundo período de Ciência da Computação e sempre em busca de novos desafios e aprendizado.
 
-<div style="display: flex; justify-content: center; margin-top: 10px;">
-    <h2>My Social Media</h2>
-</div>
+## Projetos em Destaque
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 25px; flex-wrap: wrap;">
-    <a target="_blank" href="https://www.instagram.com/gustavolima.21/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Logo">
-    </a>
-    <a target="_blank" href="https://www.linkedin.com/in/gustavolima21/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo">
-    </a>
-    <a target="_blank" href="https://www.youtube.com/channel/UCfQcSq-q1_TdvttjLB-CKnw">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Logo">
-    </a>
-</div>
+- **[cursos_curso_em_video](https://github.com/Gugahl/cursos_curso_em_video)**: Um repositório dedicado ao estudo de cursos da plataforma Curso em Vídeo, onde pratico e aprimoro minhas habilidades em programação.
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 40px; flex-wrap: wrap;">
-    <a href="">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gugahl&theme=dark" alt="GitHub Stats">
-    </a>
-    <a href="">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugahl&theme=dark&layout=compact" alt="Top Languages">
-    </a>
-</div>
+- **[bug_burger](https://github.com/Gugahl/bug_burger)**: Um sistema de gestão de restaurantes e hamburguerias, desenvolvido em Python. Um projeto que reflete meu interesse em soluções práticas e funcionais para o dia a dia.
 
-<div style="display: flex; justify-content: center; margin-top: 10px;">
-    <h2>Technologies I Use in My Daily Life</h2>
-</div>
+## Tecnologias
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px; flex-wrap: wrap;">
-    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+- **Linguagens**: PHP, Python
+- **Sistemas Operacionais**: Ubuntu
+- **Ferramentas**: Git, GitHub
 
-<div style="display: flex; justify-content: center; margin-top: 10px;">
-    <h2>Technologies I Know</h2>
-</div>
+## Entre em Contato
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px; flex-wrap: wrap;">
-    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+Se você deseja discutir algum projeto, colaborar ou simplesmente trocar ideias sobre tecnologia, fique à vontade para entrar em contato!
+
+[Meu LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui) | [Email](mailto:seu-email-aqui)
+
+---
+
+Agradeço pela visita! Sinta-se à vontade para explorar meus repositórios e contribuir!
