@@ -1,37 +1,35 @@
-
 <div style="display: flex; justify-content: center; margin-top: 10px;">
-    <h2>Hi! I'm Gustavo Lima! 😄</h2>
+    <h2>Hello! I'm Gustavo Lima! 😄</h2>
 </div>
 
 <div style="display: flex; flex-direction: column; justify-content: center; margin-top: 10px;">
     <ul style="padding: 0;">
-        <li>I work with back-end web development
-        <li>I am currently studying the PHP language
-        <li>I'm in the second period of computer science
+        <li>🌐 I work with back-end web development</li>
+        <li>📚 Currently, I'm studying PHP</li>
+        <li>🎓 I'm in the second semester of Computer Science</li>
+        <li>🌍 Native Portuguese speaker, English A2</li>
     </ul>
     <p>
-I have always been very curious since I was a child. I was the kid who took things apart to see how they worked, which made me fascinated with technology. When I was 7 years old, I got my first computer and realized that this was what I was born to do.
-
-I currently work with several development technologies, the main ones being: HTML, CSS, Javascript, Node.js, PHP and MySQL, as well as software versioning technologies Git and Github (link below). I also have considerable knowledge in Python, my previous stack.
-
-Contact:<br>
-Mail: ogustavohlima@gmail.com
+        Since childhood, I have always been very curious and loved taking things apart to see how they worked. When I got my first computer at the age of 7, I realized I was meant for the world of technology. Today, I work with various development technologies, including HTML, CSS, JavaScript, Node.js, PHP, MySQL, and Java, as well as using Git and GitHub for version control. I also have a good knowledge of Python, which was my previous stack.
+        <br><br><strong>Contact</strong>: <br>
+        LinkedIn: <a href="https://www.linkedin.com/in/gustavolima21/">gustavolima21</a><br>
+        Mail: ogustavohlima@gmail.com
     </p>
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 10px;">
-    <h2>My social medias</h2>
+    <h2>My Social Media</h2>
 </div>
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 25px; flex-wrap: wrap;">
     <a target="_blank" href="https://www.instagram.com/gustavolima.21/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Logo Instagram">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Logo">
     </a>
     <a target="_blank" href="https://www.linkedin.com/in/gustavolima21/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo Linkedin">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo">
     </a>
     <a target="_blank" href="https://www.youtube.com/channel/UCfQcSq-q1_TdvttjLB-CKnw">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Logo Youtube">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Logo">
     </a>
 </div>
 
@@ -45,7 +43,7 @@ Mail: ogustavohlima@gmail.com
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 10px;">
-    <h2>Technologies that I use in my daily life</h2>
+    <h2>Technologies I Use in My Daily Life</h2>
 </div>
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px; flex-wrap: wrap;">
@@ -58,7 +56,7 @@ Mail: ogustavohlima@gmail.com
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 10px;">
-    <h2>Technologies that I know</h2>
+    <h2>Technologies I Know</h2>
 </div>
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px; flex-wrap: wrap;">
