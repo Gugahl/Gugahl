@@ -15,7 +15,7 @@ Sou estudante de **Ciência da Computação (2º período)**, com foco em **dese
 ## 🛠️ Tecnologias que utilizo
 
 - **Linguagens**: PHP, Python  
-- **Sistemas Operacionais**: Ubuntu  
+- **Sistemas Operacionais**: Windows & Linux (Ubuntu)  
 - **Ferramentas**: Git, GitHub
 
 ---
