@@ -1,30 +1,20 @@
-# 👋 Olá! Eu sou o Gustavo Lima
+👋 Hello! I'm Gustavo Lima  
+Welcome to my GitHub profile!  
 
-Seja bem-vindo(a) ao meu perfil no GitHub!  
-Sou estudante de **Ciência da Computação (2º período)**, com foco em **desenvolvimento web**, especialmente nas linguagens **PHP** e **Python**. Gosto de aprender na prática, criando projetos que resolvem problemas reais e que me desafiam a evoluir como programador.
+I'm a Computer Science student (2nd semester), focused on web development, especially using PHP and Python. I enjoy learning by doing — building projects that solve real problems and push me to grow as a programmer.
 
----
+🚀 Featured Project  
+🍔 bug_burger  
+A management system for restaurants and burger shops, developed in Python. This project aims to automate processes and optimize operational control in the food service industry.
 
-## 🚀 Projeto em Destaque
+🛠️ Technologies I Use  
+Languages: PHP, Python  
+Operating Systems: Windows & Linux (Ubuntu)  
+Tools: Git, GitHub  
 
-- 🍔 **[bug_burger](https://github.com/Gugahl/bug_burger)**  
-  Sistema de **gestão para restaurantes e hamburguerias**, desenvolvido em **Python**. Um projeto voltado à automação de processos e controle operacional no setor alimentício.
+📬 Get in Touch  
+[LinkedIn](https://www.linkedin.com/in/gustavolima21)  
+Email: ogustavohlima@gmail.com  
 
----
-
-## 🛠️ Tecnologias que utilizo
-
-- **Linguagens**: PHP, Python  
-- **Sistemas Operacionais**: Windows & Linux (Ubuntu)  
-- **Ferramentas**: Git, GitHub
-
----
-
-## 📬 Entre em contato
-
-- LinkedIn: [https://www.linkedin.com/in/gustavolima21](https://www.linkedin.com/in/gustavolima21)  
-- E-mail: [ogustavohlima@gmail.com](mailto:ogustavohlima@gmail.com)
-
----
-
-✨ Obrigado por visitar meu perfil! Explore os repositórios e, se curtir algum projeto, deixe uma ⭐ ou envie uma contribuição!
+✨ Thanks for visiting my profile!  
+Feel free to explore the repositories — if you like a project, leave a ⭐ or consider contributing!
